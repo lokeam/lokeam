@@ -11,7 +11,7 @@
       "
       align="center"
     >
-      <h1>Hello! 👋, my name is Ahn</h1>
+      <h1>Hello! 👋 I'm Ahn</h1>
       <p style="margin-top: 20px">I create and write about software.</p>
     </td>
     <!-- Right panel: top cell -->
