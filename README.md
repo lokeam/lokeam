@@ -1,7 +1,7 @@
-<table width="100%" border="0">
+<table width="100%" border="1">
   <colgroup>
-    <col width="50%">
-    <col width="50%">
+    <col width="50%" style="width: 50%">
+    <col width="50%" style="width: 50%">
   </colgroup>
   <tr>
     <!-- Left panel, spans two rows -->
@@ -23,5 +23,6 @@
       />
     </td>
   </tr>
+
 </table>
 
