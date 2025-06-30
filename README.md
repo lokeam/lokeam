@@ -6,11 +6,10 @@ I'm Ahn. I create and write about software.
 
 <h4 align="center">
 
-💻 full stack developer <a href="https://github.com/lokeam">@lokeam</a> | 🏗️ building <a href="https://github.com/lokeam/quebec-kilo-portfolio">Q-Ko - Video Game Management Platform</a> | 💬 connect <a href="https://twitter.com/lokeam">@lokeam</a>
-</h4>
-<p align="center">
-<a href="https://www.linkedin.com/in/ahnmingloke/">https://www.linkedin.com/in/ahnmingloke/</a>
-</p>
+💻 full stack developer <a href="https://github.com/lokeam">@lokeam</a> | 🏗️ building <a href="https://github.com/lokeam/quebec-kilo-portfolio">Q-Ko - Video Game Management Platform</a></h4>
+<p align="center">🖊️ My articles on Medium: <a href="https://medium.com/@lokeahnming">@lokeahnming</a></p>
+<p align="center">💬 Connect on X: <a href="https://twitter.com/lokeam">@lokeam</a></p>
+<p align="center"><a href="https://www.linkedin.com/in/ahnmingloke/">https://www.linkedin.com/in/ahnmingloke/</a></p>
 
 <br/>
 
